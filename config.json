@@ -1,0 +1,28 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/myblog",
+      "prod_uri":"mysql://root:@localhost/myblog",
+
+      "fb_url":"https://facebook.com/myblog",
+      "tw_url":"https://twitter.com/myblog",
+      "gh_url": "https://github.com/myblog",
+
+      "blog_name": "Blog Name",
+      "admin_name":"Apoorva",
+      "tag_line": "Heaven for programmers",
+      "project_tag_line": "Projects for programmers",
+      "about_text": "Hi my name is Apoorva and I create programming tutorials and I am a good boy",
+
+      "gmail-user":"vermaapoorva0510@gmail.com",
+      "gmail-password":"Apoo124@#",
+
+     
+      "no_of_posts": 2,
+      "admin_user":"apoo",
+      "admin_password": "apoo",
+      "upload_location":"C:\\Users\\Sourav Verma\\Desktop\\Skills\\Website Development\\Backend\\startbootstrap-clean-blog-gh-pages\\static"
+    }
+  }
+  
