@@ -2,8 +2,8 @@
 
 It is a blog website connected with MYSQL Database
 
-Resource : I followed Flask Playlist by CodeWithHarry
-[Link](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)
+Resource : 
+[I followed Flask Playlist by CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)
 
 ## Description
 
