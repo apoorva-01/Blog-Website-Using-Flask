@@ -12,13 +12,13 @@ An in-depth paragraph about your project and overview of use.
 
 
 
-## Image 1
+## About
 ![Hero Image](static/img/readme_pic1.jpg?raw=true "Title")
 <br>
-## Image 2
+## DashBoard
 ![Hero Image](static/img/readme_pic2.jpg?raw=true "Title")
 <br>
-## Image 3
+##  DashBoard
 ![Hero Image](static/img/readme_pic3.jpg?raw=true "Title")
 ## Image 3
 ![Hero Image](static/img/readme_pic4.jpg?raw=true "Title")

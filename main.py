@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request,session,redirect
+from flask import Flask, render_template, request,session,redirect,make_response,abort
 from flask_sqlalchemy import SQLAlchemy
 from flask_mail import Mail
 import json
@@ -104,6 +104,12 @@ def ds_projects():
     return render_template('ds_projects.html', params=params)
     
 
+# Errr Handler Page   
+# @app.errorhandler(404)
+# def not_found(error):
+#     resp = make_response(render_template('error.html'), 404)
+#     resp.headers['X-Something'] = 'A value'
+#     return resp
 
 # Admin Dashboard
 @app.route("/dashboard", methods=['GET', 'POST'])
