@@ -13,15 +13,15 @@ An in-depth paragraph about your project and overview of use.
 
 
 ## About
-![Hero Image](static/img/readme_pic1.jpg?raw=true "Title")
+![Hero Image](static//assetsimg/readme_pic1.jpg?raw=true "Title")
 <br>
 ## DashBoard
-![Hero Image](static/img/readme_pic2.jpg?raw=true "Title")
+![Hero Image](static/assets/img/readme_pic2.jpg?raw=true "Title")
 <br>
 ##  DashBoard
-![Hero Image](static/img/readme_pic3.jpg?raw=true "Title")
+![Hero Image](static/assets/img/readme_pic3.jpg?raw=true "Title")
 ## Image 3
-![Hero Image](static/img/readme_pic4.jpg?raw=true "Title")
+![Hero Image](static/assets/img/readme_pic4.jpg?raw=true "Title")
 
 
 
