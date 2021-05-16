@@ -13,7 +13,7 @@ An in-depth paragraph about your project and overview of use.
 
 
 ## About
-![Hero Image](static//assetsimg/readme_pic1.jpg?raw=true "Title")
+![Hero Image](static/assets/img/readme_pic1.jpg?raw=true "Title")
 <br>
 ## DashBoard
 ![Hero Image](static/assets/img/readme_pic2.jpg?raw=true "Title")
