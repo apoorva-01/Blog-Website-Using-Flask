@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 import os
 import math
-from werkzeug.utils import secure_filename
+
 
 
 with open('config.json', 'r') as c:
